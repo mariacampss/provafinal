@@ -1,0 +1,23 @@
+.Navbar{
+    background-color: navy;
+    display: flex;
+}
+
+.logo{
+    display: flex;
+    margin-left: 6px;
+}
+
+.item-lista{
+    color: white;
+    justify-content: start;
+    display: flex;
+    font-weight: bold;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+
+}
+

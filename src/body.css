@@ -1,0 +1,16 @@
+
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.imagens{
+    margin-right: 10px;
+    object-fit: cover;
+    justify-content: space-between; 
+}
+
+.titulos{
+    font-size: 15px;
+}
